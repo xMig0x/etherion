@@ -1,4 +1,11 @@
 {
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Bot de Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "@discordjs/voice": "^0.18.0",
     "axios": "^1.9.0",
